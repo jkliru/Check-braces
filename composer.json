@@ -3,8 +3,7 @@
   "description": "Check-braces class",
   "type": "library",
   "require": {
-    "php": ">=7.0",
-    "psr/log": "~1.0.2"
+    "php": ">=7.0"
   },
   "license": "MIT",
   "authors": [

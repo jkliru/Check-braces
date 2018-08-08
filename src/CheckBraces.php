@@ -9,7 +9,7 @@ class CheckBraces
 {
     public function isCorrectString($str) {
         if (preg_match('/[^\(\)\t\r\n ]/', $str))
-            throw new InvalidArgumentException('Unexpected symbol in a string');
+            throw new \InvalidArgumentException('Unexpected symbol in a string');
 
         $braces = [];
 
