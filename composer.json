@@ -1,5 +1,5 @@
 {
-  "name": "jkliru/Check-braces",
+  "name": "jkliru/check-braces",
   "description": "Check-braces class",
   "type": "library",
   "require": {
