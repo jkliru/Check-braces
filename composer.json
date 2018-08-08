@@ -1,0 +1,22 @@
+{
+  "name": "jkliru/Check-braces",
+  "description": "Check-braces class",
+  "type": "library",
+  "require": {
+    "php": ">=7.0",
+    "psr/log": "~1.0.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Cheglakov",
+      "email": "admin@jkli.ru"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "CheckBraces\\": "src/"
+    }
+  }
+}
