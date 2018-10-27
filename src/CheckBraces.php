@@ -1,6 +1,6 @@
 <?php
 
-namespace CheckBraces;
+namespace jkliru;
 
 /**
  * Проверяет корректность открытых/закрытых круглых скобок
